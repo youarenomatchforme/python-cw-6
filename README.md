@@ -35,11 +35,11 @@
 <p dir="rtl">
 <strong><a href="https://docs.google.com/document/d/1BA8t5-qKIBhLCSQFKYVx9syLgFAapT6lXDlLHpM0jmg/edit">الجزء الثالث</a></strong></p>
  
-- قم بانشاء function باسم cube تاخذ argument باسم number 
-- اجعل الـ function تقوم بارجاع (return) مكعب الرقم (the number to the power of 3)
-- قم بانشاء function ثانية باسم by_three وتاخذ argument باسم number:
-  - اذا كان الرقم يقبل القسمة على 3 استخدم cube(number) function وقم بارجاع الناتج
-  - اذا كان لا يقبل القسمة على 3 قم بارجاع false
-
+- قم باضافة new hobby من اختيارك الى الـ hobbies الموجودة لدى الـ person dictionary 
+- قم بانشاء function باسم check_hobbies تاخذ argument باسم person 
+- ستقوم الـ function بالنظر الى الـ person dictionary اذا كان لديه اكثر من three hobbies ستقوم بطباعة:
+ ```
+ WOW YOU ARE AMAZING
+ ```
  
 </div>
